@@ -10,5 +10,5 @@ echo "My name is ${NAME}"
 
 # User input
 read -p "Enter your name: " NAME
-echo "Hello $NAME, nice to meet you!"
+
 
